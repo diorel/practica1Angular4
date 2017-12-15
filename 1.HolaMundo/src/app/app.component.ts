@@ -8,5 +8,5 @@ export class AppComponent {
   nombre:string = "leon";
   apellido:string = "Amador";
 
-  
+
 }
